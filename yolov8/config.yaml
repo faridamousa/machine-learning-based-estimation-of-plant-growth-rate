@@ -1,0 +1,8 @@
+path: C:/Users/ETSH/Downloads/yolov8/RFRB_ORANGE
+train: train/images
+val: val/images
+
+
+names:
+  0: rapeseed flower
+  1: orange
